@@ -30,4 +30,4 @@ Jarvis uses a central orchestrator that coordinates:
 
 ## Demo
 
-See LinkedIn demo video for full workflow.
+See LinkedIn demo video for full workflow - www.linkedin.com/in/tejas-m-n.
